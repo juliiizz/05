@@ -1,0 +1,64 @@
+
+
+picture{
+    display: flex;
+    justify-content: center;
+}
+
+html {
+    font-size: 30px;
+    background-color: #000000;
+}  
+ 
+p{
+    text-align: center;
+}
+
+body {
+    width: 50%;
+    margin: 0 auto;
+}
+
+h1, h2, h3 {
+    color: white;
+}
+
+h1{
+    font-size: 30px;
+}
+
+p {
+    font-family: 'Open Sans Condensed';
+    color: #ececec;
+}
+
+.titulo{
+    font-size: 20px;
+}
+
+.icon{
+    width: 50px;
+}
+
+.icono{
+    width: 40px;
+}
+
+.album{
+    width: 150px;
+    height: 150px;
+}
+
+
+.discografia{
+    text-align: left;
+    font-size: 20px;
+}
+
+footer {
+    margin-top: 10px;
+  }
+
+footer{
+    color: white;
+}
